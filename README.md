@@ -31,11 +31,11 @@ Enables communication between EC2 and SNS for publishing alerts.
 ---
 
 ## 🔗 Features
-- 🔹 Monitors disk usage on EC2  
-- 🔹 Logs disk usage into a file  
-- 🔹 Sends real-time email alerts via SNS  
-- 🔹 Uses IAM roles for secure access  
-- 🔹 End-to-end monitoring and alert validation  
+### 🔹 Monitors disk usage on EC2  
+### 🔹 Logs disk usage into a file  
+### 🔹 Sends real-time email alerts via SNS  
+### 🔹 Uses IAM roles for secure access  
+### 🔹 End-to-end monitoring and alert validation  
 
 ---
 
